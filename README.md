@@ -46,5 +46,5 @@
 
 ---------------------------------------------------------------------------------------------
 
-<h1 align="center">You're welcome! Thank you for visiting my profile. If you have any more questions in the future, feel free to ask. Have a wonderful day!</h1>
+<h1 align="center">You're welcome! Thank you for visiting my profile. If you have any more questions in the future, feel free to ask. Have a wonderful day! 😊 </h1>
 
