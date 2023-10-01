@@ -28,8 +28,6 @@
 
 -📌<a href="https://www.linkedin.com/in/radwa-khaled-26b95928a" target="blank">"Linkedin"</a>.
 
--📌<a href="https://www.facebook.com/radwa.khaled.12720?mibextid=ZbWKwL" target="blank">"Facebook"</a>.
-
 ---------------------------------------------------------------------------------------------
 
 ###  ⚡ Languages and Tools
