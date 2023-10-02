@@ -16,7 +16,7 @@
 
 3-<a href="https://github.com/Radwa-Khaled/alx-low_level_programming" target="blank">printf</a>: This project involves recreating the functionality of the printf function in C. It handles various format specifiers and flags to enable the printing of different data types to the standard output. This project provides an opportunity to understand the inner workings of the printf function and gain insights into string formatting and output handling in C.
 
-4-<a href="https://github.com/Radwa-Khaled/alx-low_level_programming" target="blank">Simple Shell</a>: This project involves creating a basic UNIX command interpreter, often referred to as a shell. It handles executing commands, built-in functionalities, environment variables, and file redirections. This project allows for a deeper understanding of how a shell works and provides hands-on experience in implementing a simple command-line interface.
+4-<a href="https://github.com/Radwa-Khaled/simple_shell" target="blank">Simple Shell</a>: This project involves creating a basic UNIX command interpreter, often referred to as a shell. It handles executing commands, built-in functionalities, environment variables, and file redirections. This project allows for a deeper understanding of how a shell works and provides hands-on experience in implementing a simple command-line interface.
 
 ---------------------------------------------------------------------------------------------
 
